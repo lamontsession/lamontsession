@@ -1,9 +1,11 @@
-## Hi there 👋
+<strong>Hi there 👋</strong>
 
 <!--
 **lamontsession/lamontsession** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
+
 <details open>
 🔭 I’m currently working on cloud security and DevOps/DevSecOps projects.
 🌱 I’m currently learning AWS, Azure, Kubernetes, and Terraform
@@ -15,4 +17,4 @@ Here are some ideas to get you started:
 ⚡ Fun fact: I still play 1st generation Yu-Gi-Oh and my favorite Yu-Gi-Oh game is Duelist of the Roses (the card game honestly should've been made that way to begin with lol).
 
 </details>
--->
+
