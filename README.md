@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 💬 Ask me about all things cloud security or anything adjacent.<br>
 📫 How to reach me: on Github or at lamontsession@outlook.com<br>
 😄 Pronouns: he/him<br>
-⚡ Fun fact: I still play 1st generation Yu-Gi-Oh and my favorite Yu-Gi-Oh game is Duelist of the Roses (the card game honestly should've been made that way to begin with lol).<br>
+⚡ Fun fact: I still play 1st generation Yu-Gi-Oh and my favorite Yu-Gi-Oh game is Duelist of the Roses (the card game honestly should've been made that way to begin with).<br>
 
 </details>
 
