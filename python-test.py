@@ -72,3 +72,29 @@ print(float("1"))
 print(float(5))
 print(float(False))
 print(float(True))
+
+
+
+##############################################
+# Write more code below this line #
+##############################################
+
+# Operators
+
+health = 50
+new_health = health + 20
+print(health) # Output: 50
+health = health + 20
+print(health) # Output: 70
+
+xPos = 5
+print(xPos % 2) # Output: 1
+print(xPos // 2) # Output: 2
+print(xPos)
+
+first_name = "LaMont"
+last_name = "Session"
+print(first_name + " " + last_name) # Output: LaMont Session
+
+
+
